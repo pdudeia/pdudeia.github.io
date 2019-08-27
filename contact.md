@@ -6,7 +6,7 @@ permalink: /contact/
 
 **Address**
 
-Room no. 53,<br/>
+Room no. 179,<br/>
 Hostel-5,<br/>
 IIT Bombay
 
