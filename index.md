@@ -9,7 +9,7 @@ layout: home
   <img src="/ICL_2019.JPG" alt="Siddharth" height="400px">
 
 
-Hi! I am Siddharth Chandak, a second year undergraduate student in [Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/).
+Hi! I am Siddharth Chandak, a third year undergraduate student in [Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/).
 
 
 
