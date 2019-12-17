@@ -4,14 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-**Address**
-
+## Address
 Room no. 179,<br/>
 Hostel-5,<br/>
 IIT Bombay
 
-**Email**
-
+## Email
 [chandak1299@gmail.com](mailto: chandak1299@gmail.com)<br/>
-[17D070019@iitb.ac.in](mailto: 17D070019@iitb.ac.in)
-
+[chandak1299@iitb.ac.in](mailto: chandak1299@iitb.ac.in)
