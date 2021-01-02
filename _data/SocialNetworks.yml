@@ -21,6 +21,11 @@ twitter:
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
+googlescholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.com/"
+  icon: "fa-graduation-cap"
+
 reddit:
   name: "Reddit"
   baseURL: "https://reddit.com/u/"
