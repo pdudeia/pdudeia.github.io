@@ -4,11 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-## Address
-Room no. 179,<br/>
-Hostel-5,<br/>
-IIT Bombay
-
 ## Email
+[siddharth.chandak@stanford.edu](mailto: siddharth.chandak@stanford.edu)<br/>
 [chandak1299@gmail.com](mailto: chandak1299@gmail.com)<br/>
-[chandak1299@iitb.ac.in](mailto: chandak1299@iitb.ac.in)
