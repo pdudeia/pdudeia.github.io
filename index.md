@@ -6,6 +6,6 @@ layout: page
 ---
 
 
-<img src="/2021_Lake_District_Cropped.jpg" alt="Siddharth" style="width:100%;max-width:525px;max-height:400px">
+<img src="/2021_Lake_District_Cropped.jpg" alt="Siddharth" style="width:100%;max-width:114px;max-height:100px">
 
 Hi! I am Siddharth Chandak, a fourth year undergraduate student in Electrical Engineering at [IIT Bombay](http://www.iitb.ac.in/). I will be joining Department of Electrical Engineering at Stanford University in September 2021 as a graduate student. 
