@@ -6,6 +6,6 @@ layout: page
 ---
 
 
-<img src="/MHBLWR-photo.jpg" alt="Parth" style="max-width:241px;max-height:200px">
+<img src="/MHBLWR-photo.JPG" alt="Parth" style="max-width:241px;max-height:200px">
 
 Hi! I am Parth Dodhia, a senior undergrad in the Department of Electrical Engineering at IIT Bombay.
