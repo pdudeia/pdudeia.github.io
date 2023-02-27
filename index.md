@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-<img src="/photo.HEIC" alt="Parth" style="max-width:241px;max-height:200px">
+<img src="/photo.jpg" alt="Parth" style="max-width:241px;max-height:200px">
 
 Hi! I am Parth Dodhia, a first year master's student in the Department of Electrical Engineering at Stanford University. I completed my BTech in Electrical Engineering with a minor in Computer Science at [IIT Bombay](https://www.ee.iitb.ac.in/).
 
